@@ -89,6 +89,11 @@ h4 {
     padding-bottom: 4rem;
 }
 
+/* margins */
+.mb {
+    margin-bottom: 1rem;
+}
+
 /* Bilder responsiv */
 img {
     max-width: 100%;
